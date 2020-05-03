@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/cg_35.dir/Code/src/main.cpp.o CMakeFiles/cg_35.dir/Code/src/mesh.cpp.o CMakeFiles/cg_35.dir/Code/src/raytracing.cpp.o ../Code/data/cube.obj ../Code/data/dodgeColorTest.obj  -o cg_35 

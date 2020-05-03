@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="cg_35"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/BasVanOs/Documents/cg-35/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/BasVanOs/Documents/cg-35/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/BasVanOs/Documents/cg-35/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cg_35">
+				<Option output="/Users/BasVanOs/Documents/cg-35/cmake-build-debug/cg_35" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/BasVanOs/Documents/cg-35/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/BasVanOs/Documents/cg-35/Code/extern"/>
+					<Add directory="/Users/BasVanOs/Documents/cg-35/Code/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 cg_35"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cg_35/fast">
+				<Option output="/Users/BasVanOs/Documents/cg-35/cmake-build-debug/cg_35" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/BasVanOs/Documents/cg-35/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/BasVanOs/Documents/cg-35/Code/extern"/>
+					<Add directory="/Users/BasVanOs/Documents/cg-35/Code/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 cg_35/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/BasVanOs/Documents/cg-35/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/CMakeLists.txt">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/data/cube.mtl">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/data/cube.obj">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/data/dodgeColorTest.mtl">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/data/dodgeColorTest.obj">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/extern/stb_image_write.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/Vec3D.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/Vertex.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/concurrentqueue.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/imageWriter.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/matrix.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/mesh.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/mouse.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/include/raytracing.h">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/result.bmp">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/src/main.cpp">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/src/mesh.cpp">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Code/src/raytracing.cpp">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/README.md">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Screenshots/basic raytracing.bmp">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/Screenshots/diffuse lighting.bmp">
+			<Option target="cg_35"/>
+		</Unit>
+		<Unit filename="/Users/BasVanOs/Documents/cg-35/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

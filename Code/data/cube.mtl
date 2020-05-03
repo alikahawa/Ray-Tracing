@@ -1,0 +1,37 @@
+newmtl buffy-gray
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ../textures/buffy256.ppm
+
+newmtl buffy-red
+illum 6
+Ka 0.183007 0.183007 0.183007
+Kd 0.440139 0.416973 0.378365
+Tf 1.00 1.00 1.00
+map_Kd ../textures/angel256.ppm
+
+newmtl buffy-green
+illum 4
+Kd 0.00 0.80 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ../textures/willow256.ppm
+
+newmtl buffy-blue
+illum 4
+Kd 0.00 0.00 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ../textures/xan
+
+newmtl glass__ee
+Ns 100.000000
+Ka 0.183007 0.183007 0.183007
+Kd 0.440139 0.416973 0.378365
+Ks 0.266667 0.266667 0.266667
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 0.434830
+illum 3
